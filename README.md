@@ -1,0 +1,2 @@
+# jangotest
+django_redis_mysql_sentry_celery
